@@ -1,0 +1,193 @@
+* {
+    margin: 0%;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.menucima {
+    background-color: #363636;
+     width: 100%;
+     height: 60px;
+}
+
+#entremenus {
+    background-color: rgb(0, 0, 0);
+     width: 100%;
+     height: 185px;
+}
+
+.menubaixo {
+    background-color: #696969;
+     width: 100%;
+     height: 60px;
+}
+
+#imagemmenu {
+    width: 100%;
+    height: 100%;
+}
+
+#bemvindo {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#ul1 {
+    list-style: none;
+    display: flex;
+    padding-top: 15px;
+    margin-left: 515px;
+}
+
+#bot1 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding-right: 50px;
+    font-size: 25px;
+}
+
+#bot2 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding-right: 50px;
+    font-size: 25px;
+}
+
+#bot3 {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding-right: 50px;
+    font-size: 25px;
+}
+
+.conteudo {
+    width: 1440;
+    height: 960px;
+}
+
+
+.rodape {
+    background-color: #363636;
+    width: 100%;
+    height: 150px;
+}
+
+#rodapetext {
+    color: white;
+    padding-left: 450px;
+    padding-top: 50px;
+}
+
+.conteudo2 {
+    background-color: #D3D3D3;
+    width: 100%;
+    height: 700px;
+}
+
+#moto1 {
+    border-radius: 15px;
+    width: 610px;
+    height: 400px;
+    margin-left: 50px;
+    margin-top: 50px;
+    float: left;
+    
+}
+
+#moto2 {
+    width: 610px;
+    height: 400px;
+    margin-top: 35px;
+    margin-left: 770px
+    
+}
+
+#mt1 {
+    border-radius: 15px;
+}
+
+#mt2 {
+    border-radius: 15px;
+}
+
+#moto1text {
+    color: black;
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 300px;
+    float: left;
+}
+
+#moto1tx {
+    font-size: 25px;
+}
+
+#moto2text {
+    color: black;
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 1030px;
+}
+
+#moto2tx {
+    font-size: 25px;
+}
+
+#botao1 {
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+    margin-left: 320px;
+    margin-top: 10px;
+    float: left;
+}
+ 
+#botao1txt {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-decoration: none;
+    padding-left: 1mm;
+}
+
+#botao2 {
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    width: 100px;
+    height: 30px;
+    margin-left: 1055px;
+    margin-top: 10px;
+}
+ 
+#botao2txt {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-decoration: none;
+    padding-left: 1mm;
+}
+
+.conteudo3 {
+    background-color: #D3D3D3;
+    width: 100%;
+    height: 500px;
+}
+
+#text3cont {
+    font-size: 45px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#text4cont {
+    font-size: 35px;
+    margin-top: 50px;
+    text-align: center;
+}
